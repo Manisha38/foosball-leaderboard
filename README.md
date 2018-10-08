@@ -1,5 +1,6 @@
 # foosball-leaderboard
-Basic leaderboard app to keep track of teams and matches
+Basic leaderboard app to keep track of teams and matches. 
+Stack: python-django, database-sqlite, Bootstrap 
 
 ### Install and run on local machine:
 In order to use the app on local machine install the requirements in requirements.txt with the following command:
