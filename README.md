@@ -1,11 +1,11 @@
 # foosball-leaderboard
 Basic leaderboard app to keep track of teams and matches
 
-###Install and run on local machine:
+### Install and run on local machine:
 In order to use the app on local machine install the requirements in requirements.txt with the following command:
 ``` pip install -r requirements.txt```
 
-###Description
+### Description
 This is a basic leaderboard app to keep track of foosball and TT competitions and matches and display ranking of each team
 The app has the following features:
 1. Create team : Select any two players to make a team
